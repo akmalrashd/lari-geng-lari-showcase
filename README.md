@@ -4,6 +4,7 @@
 
 > **Portfolio showcase.** The game repository is private while the competition is running. This page shows the design, architecture and my part.
 
+🎮 **Play now:** [larigenglari.prsdntworldwide.com](https://larigenglari.prsdntworldwide.com) (runs in the browser, best on a phone)  
 **Competition:** 5th UMPSA × HUAWEI GameCenter Mobile App Competition 2026 (UXHMAC 2026), Category B  
 **Type:** Student team project · **Period:** October 2026 – present
 
@@ -19,6 +20,7 @@ Three housemates, **Aiman, Mei and Kavitha**, run through one university semeste
 - Chapters with rising difficulty, bosses, combo and near-miss rewards, 3-star results
 - Collectible card album, story panels, pause and resume that survive interruptions
 - Works **offline**; save data is versioned and safe against corruption
+- **Live site** with in-browser play and a feedback form: [larigenglari.prsdntworldwide.com](https://larigenglari.prsdntworldwide.com)
 
 <p align="center">
   <img src="docs/screenshots/menu.png" width="30%" alt="Main menu">
